@@ -1,0 +1,11 @@
+{
+  "name": "barchart-d3",
+  "version": "0.0.3",
+  "license": "MIT",
+  "main": "d3-barchart.ts",
+  "dependencies": {
+    "@types/d3": "^4.9.0",
+    "d3": "^4.9.1",
+    "moment": "^2.18.1"
+  }
+}

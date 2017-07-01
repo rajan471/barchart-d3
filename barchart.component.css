@@ -1,0 +1,6 @@
+.d3-chart svg{
+  background-color: #F00;
+}
+.d3-chart svg rect:hover{
+  fill: yellow !important;
+}
