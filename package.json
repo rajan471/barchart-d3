@@ -1,6 +1,6 @@
 {
   "name": "barchart-d3",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "license": "MIT",
   "main": "d3-barchart.ts",
   "dependencies": {
